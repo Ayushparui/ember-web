@@ -1,4 +1,4 @@
-# Ember
+# Ember (Link: <a href="https://discord.com/api/oauth2/authorize?client_id=1101680353770483733&permissions=8&scope=bot">Discord link</a>, Website-Link: <a href="http://emberrr.co/">Website</a>)
 
 Welcome to the "EMBER" repository! This bot is designed to enhance your experience on Discord by providing a variety of fun and interactive features. The bot can be activated using the command "${commandName}" followed by specific keywords for each feature.
 
